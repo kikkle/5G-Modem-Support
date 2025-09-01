@@ -293,7 +293,7 @@ config custom-commands
 
 config custom-commands
 	option description 'MBIM拨号 > AT+SER=3,1'
-	option command 'AT+SER=3,1'
+	option command 'AT+SER=7,1'
 
 config custom-commands
 	option description 'RNDIS拨号 > AT+SER=3,1'
