@@ -148,7 +148,7 @@
 				{"查询当前拨号模式 > AT+SER?":"AT+SER?"},
 				{"QMI/GobiNet拨号模式 > AT+SER=1,1":"AT+SER=1,1"},
 				{"ECM拨号模式 > AT+SER=2,1":"AT+SER=2,1"},
-				{"MBIM拨号模式 > AT+SER=3,1":"AT+SER=3,1"},
+				{"MBIM拨号模式 > AT+SER=3,1":"AT+SER=7,1"},
 				{"RNDIS拨号模式 > AT+SER=3,1":"AT+SER=3,1"},
 				{"NCM拨号模式 > AT+SER=2,1":"AT+SER=2,1"},
 				{"锁4G > AT^SYSCFGEX=\"03\",all,0,2,all,all,all,all,1":"AT^SYSCFGEX=\"03\",all,0,2,all,all,all,all,1"},
